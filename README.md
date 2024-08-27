@@ -2,9 +2,9 @@
 
 Katib is a tiny, minimalist text editor written entirely in Lua.
 
-**Made by StephenMortada**
-**Version 1.0**
-**File size: 1792 bytes**
+- **Made by StephenMortada**
+- **Version 1.0**
+- **File size: 1792 bytes**
 
 ## Features
 
