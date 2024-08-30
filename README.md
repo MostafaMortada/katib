@@ -21,13 +21,12 @@ _Refer to the YT video link at the top of the document._
 
 2. **Editing Text**: Type your text and press Enter to add a new line.
 
-3. **Entering Commands**:
-   - Press the **Esc** key followed immediately by one of the following commands:
-     - `save`: Save the current file.
-     - `load`: Load a file.
-     - `quit`: Exit the editor.
-     - `goto`: Move to a specific line (e.g., `goto 10`).
-     - `clear`: Clears the screen and redraws everything.
+3. **Entering Commands**: Press the **Esc** key followed immediately by one of the following commands:
+   - `save`: Save the current file.
+   - `load`: Load a file.
+   - `quit`: Exit the editor.
+   - `goto`: Move to a specific line (e.g., `goto 10`).
+   - `clear`: Clears the screen and redraws everything.
 
 ---
 
