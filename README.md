@@ -1,15 +1,17 @@
 # Katib
 
-Katib is a tiny, _very_ minimalist text editor written entirely in Lua.
-
-YouTube demo: https://youtu.be/loBeuWqzHMk
-
 - **Made by StephenMortada**
 - **Version 1.0**
 - **File size: 1792 bytes**
 
+Katib is a tiny, _very_ minimalist text editor written entirely in Lua.
+
 This is made for Linux systems, though it may work on Windows (untested).
 Requires Lua be installed to run (obviously).
+
+YouTube demo: https://youtu.be/loBeuWqzHMk
+
+---
 
 ## Usage Instructions
 
@@ -26,5 +28,7 @@ _Refer to the YT video link at the top of the document._
      - `quit`: Exit the editor.
      - `goto`: Move to a specific line (e.g., `goto 10`).
      - `clear`: Clears the screen and redraws everything.
+
+---
 
 **This project is licensed under the GNU General Public License v3.0.**
